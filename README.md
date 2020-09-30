@@ -14,4 +14,4 @@
 
 [Assignment 7](Assignment7.html)
 
-`abc.png`
+[C:\Users\student\Pictures\Saved Pictures\PlotStats](`abc.png`)
