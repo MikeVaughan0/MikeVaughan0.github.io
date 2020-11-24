@@ -30,4 +30,4 @@
 
 [Assignment 14](Assignment14.html)
 
-[Final Project)[StatsFinal.html)
+[Final Project](StatsFinal.html)
