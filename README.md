@@ -32,4 +32,4 @@
 
 [Final Project](StatsFinal.html)
 
-[Embedded Apps](Embedded_Apps.html)
+[App Links](AppLinks.html)
