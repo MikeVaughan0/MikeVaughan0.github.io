@@ -1,0 +1,37 @@
+---
+title: "App Links"
+author: "Mike Vaughan"
+date: "11/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+#1 URL: https://mikevaughan.shinyapps.io/Question_1/
+
+#2 URL: https://mikevaughan.shinyapps.io/App2/
+
+#3 URL: https://mikevaughan.shinyapps.io/App3/
+
+#4 URL: https://mikevaughan.shinyapps.io/App4/
+
+#5 URL: https://jmcdonald23.shinyapps.io/App5/
+
+#6 URL: https://jmcdonald23.shinyapps.io/App6/
+
+#7 URL: https://jmcdonald23.shinyapps.io/App7/
+
+#8 URL: https://jmcdonald23.shinyapps.io/App8/
+
+#9 URL: https://jmcdonald23.shinyapps.io/App9/
+
+#10 URL: https://mikevaughan1.shinyapps.io/App10/
+
+#11 URL: https://mikevaughan1.shinyapps.io/App11/
+
+#12 URL: https://mikevaughan1.shinyapps.io/App12/
+ 
+ 
