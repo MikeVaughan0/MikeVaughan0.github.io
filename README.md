@@ -31,3 +31,5 @@
 [Assignment 14](Assignment14.html)
 
 [Final Project](StatsFinal.html)
+
+[Embedded Apps](Embedded_Apps.html)
